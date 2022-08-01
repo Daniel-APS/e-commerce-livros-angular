@@ -1,4 +1,4 @@
-# BookstoreFront
+git remote add origin# BookstoreFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
